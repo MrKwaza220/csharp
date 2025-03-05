@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SakhumuziK\\OneDrive - HollywoodBets\\Documents\\Personal Projects\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj": {}
+    "C:\\Users\\SakhumuziK\\source\\repos\\MrKwaza220\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SakhumuziK\\OneDrive - HollywoodBets\\Documents\\Personal Projects\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj": {
+    "C:\\Users\\SakhumuziK\\source\\repos\\MrKwaza220\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SakhumuziK\\OneDrive - HollywoodBets\\Documents\\Personal Projects\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\SakhumuziK\\source\\repos\\MrKwaza220\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj",
         "projectName": "PassingNumbers",
-        "projectPath": "C:\\Users\\SakhumuziK\\OneDrive - HollywoodBets\\Documents\\Personal Projects\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj",
+        "projectPath": "C:\\Users\\SakhumuziK\\source\\repos\\MrKwaza220\\csharp\\C# and Dotnet Training\\PassingNumbers\\PassingNumbers.csproj",
         "packagesPath": "C:\\Users\\SakhumuziK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SakhumuziK\\OneDrive - HollywoodBets\\Documents\\Personal Projects\\csharp\\C# and Dotnet Training\\PassingNumbers\\obj\\",
+        "outputPath": "C:\\Users\\SakhumuziK\\source\\repos\\MrKwaza220\\csharp\\C# and Dotnet Training\\PassingNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
