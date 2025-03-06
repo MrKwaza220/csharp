@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassingNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dde9cfa8982bf246397fe0dc4c4bfb9619d68e52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7776e327248b0d063f972390cdc995c2816de40b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PassingNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassingNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
